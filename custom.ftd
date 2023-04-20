@@ -63,13 +63,13 @@ Below is an example of creating a custom `ftd.type` using outfit-font.
 \-- ftd.type outfit-font-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $outfit-font-assets.fonts.outfit
+font-family: $outfit-font-assets.fonts.Outfit
 
 
 \-- ftd.type outfit-font-size-12-mobile:
 size.px: 12
 weight: 400
-font-family: $outfit-font-assets.fonts.outfit
+font-family: $outfit-font-assets.fonts.Outfit
 
 \-- ftd.responsive-type outfit-font-size-12-400:
 desktop: $outfit-font-size-12-desktop
