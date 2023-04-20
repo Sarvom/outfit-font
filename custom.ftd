@@ -3,15 +3,6 @@
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
 
-;; ⚠️fastn-builders::⚠️ before using this file please find and replace <font-name>
-;; with font name you have given inside 
-;; `sarvom.github.io/outfit-font/FASTN.ftd file
-
-
-
-
-
-
 -- ds.page: 
 show-footer: true
 site-name: `outfit-font`
